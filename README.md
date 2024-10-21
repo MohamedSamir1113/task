@@ -17,7 +17,7 @@ JavaScript ES6+: Modern JavaScript for functional components and hooks (e.g., us
 Installation
 
 Clone this repository:
-git clone 
+git clone https://github.com/MohamedSamir1113/task
 
 Navigate into the project directory:
 cd react-image-gallery
